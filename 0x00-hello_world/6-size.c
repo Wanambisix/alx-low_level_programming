@@ -1,12 +1,14 @@
 #include <stdio.h>
 
 /**
- * main - print the string in the put function
  *
- * Description: using the main function
- * this program prints "Programming is like bulding a multilingual puzzle
- * Retun: 0
- */
+ * main - Entry point
+ *
+ *
+ *
+ * Return: Always 0 (Success)
+ *
+ **/
 int main(void)
 {
 	char c;
